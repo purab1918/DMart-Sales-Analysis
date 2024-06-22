@@ -16,3 +16,5 @@ Data Characteristics
 
 Missing Values: Some data entries may be incomplete due to technical glitches or non-reporting by some stores.
 Feature Types: Includes numerical features (e.g., MRP, sales) and categorical features (e.g., product category, store type).
+
+The missing values are handled by taking the mean and mode of the Item Weight and Outlet Size respectively of the Test dataset.
